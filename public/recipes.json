@@ -1,0 +1,56 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Parmesan",
+    "recipe_image": "https://i.ibb.co/cLfLHss/sirasit-gullasu-Wq-QZl5-g0jk-unsplash.jpg",
+    "short_description": "Classic chicken parmesan with crispy breadcrumbs and melted cheese.",
+    "ingredients": ["4 chicken breasts", "1 cup breadcrumbs", "1 cup grated parmesan cheese", "2 cups marinara sauce", "1 cup shredded mozzarella cheese", "2 tablespoons olive oil"],
+    "preparing_time": 45,
+    "calories": 380
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Stir-Fry",
+    "recipe_image": "https://i.ibb.co/hm6g1LS/clark-douglas-Hh-Efe0-De-Mi-A-unsplash.jpg",
+    "short_description": "A colorful and nutritious vegetable stir-fry with a savory sauce.",
+    "ingredients": ["2 cups broccoli florets", "1 red bell pepper, sliced", "1 yellow bell pepper, sliced", "1 cup sliced carrots", "1 cup snow peas", "3 tablespoons soy sauce"],
+    "preparing_time": 25,
+    "calories": 200
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_image": "https://i.ibb.co/MV50Np2/studio-crevettes-RAUm-APXP3-G8-unsplash.jpg",
+    "short_description": "Classic spaghetti bolognese with a rich tomato and meat sauce.",
+    "ingredients": ["400 g spaghetti", "300 g ground beef", "1 onion, chopped", "2 cloves garlic, minced", "2 cups tomato sauce", "1 tablespoon olive oil"],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Caesar Salad",
+    "recipe_image": "https://i.ibb.co/tHCDFrp/ryan-concepcion-w-z0-RJCSBi-E-unsplash.jpg",
+    "short_description": "A crisp and refreshing caesar salad with homemade dressing.",
+    "ingredients": ["1 head romaine lettuce, chopped", "1 cup croutons", "1/2 cup grated parmesan cheese", "1/4 cup Caesar dressing", "1 lemon", "2 tablespoons olive oil"],
+    "preparing_time": 20,
+    "calories": 250
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Grilled Shrimp Skewers",
+    "recipe_image": "https://i.ibb.co/hBXnbnM/farhad-ibrahimzade-Joc-D18-Qp-Ak-Y-unsplash.jpg",
+    "short_description": "Juicy grilled shrimp skewers marinated in a garlic herb sauce.",
+    "ingredients": ["1 lb large shrimp, peeled and deveined", "2 tablespoons olive oil", "2 cloves garlic, minced", "1 tablespoon chopped fresh parsley", "1 lemon, juiced", "Salt and pepper to taste"],
+    "preparing_time": 15,
+    "calories": 180
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Vegetarian Pizza",
+    "recipe_image": "https://i.ibb.co/BnpCzst/quin-engle-l-HUdfk5-WGXc-unsplash.jpg",
+    "short_description": "Delicious vegetarian pizza loaded with colorful veggies and cheese.",
+    "ingredients": ["1 pizza dough", "1/2 cup pizza sauce", "1 cup sliced bell peppers", "1 cup sliced mushrooms", "1/2 cup sliced onions", "1 cup shredded mozzarella cheese"],
+    "preparing_time": 30,
+    "calories": 300
+  }
+]
